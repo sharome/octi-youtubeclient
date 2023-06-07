@@ -92,7 +92,6 @@ class _SearchScreenState extends State<SearchScreen> {
                       setState(() {
                         myQuery = value;
                         _videoResultFuture = callAPI(myQuery);
-
                         print('Query Changed to ${myQuery}');
                       });
                     },

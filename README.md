@@ -11,8 +11,8 @@ BEFORE RUNNING THE APP MAKE SURE
 
 ## DETAILS:
 sidebar.dart and main.dart are commented (around 50 lines each)
-Flowchart is on ####.dart
-Pseudocode is on ####.dart
-
+Flowchart is on search_screen.dart
+Pseudocode is on featured_banner.dart
+    
 Thanks and have a great holidays!
 Shayan
