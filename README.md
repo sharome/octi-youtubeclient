@@ -3,7 +3,7 @@
 ## Hi Mr.Gerwing,
 Here is the Final Assesment, some pre-requisites:
 BEFORE RUNNING THE APP MAKE SURE
- - In Windows display settings you have the scale set to 125% (TODO: Dynamic Scaling for the APP)
+ - In Windows display settings you have the scale set to 125%
  - You run the app in fullscreen
  - Don't have too many things open becasuse Flutter isn't too efficient with a debug app.
  - If you run into performance issues, it might be good to build the app just type "flutter build" in the root of the octi directory and it will create an executable 
