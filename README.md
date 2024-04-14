@@ -16,3 +16,13 @@ Pseudocode is on featured_banner.dart
     
 Thanks and have a great holidays!s
 sharome
+
+
+TODO:
+Create an in-app youtube video player instead of redirecting to the website
+Dynamic Scaling (media.query instead of size)
+Customizable Themes
+Added player functionality
+Services other than youtube (Vimeo, Daily Motion, Kick etc.)
+Live stream support for video player
+Mobile App
