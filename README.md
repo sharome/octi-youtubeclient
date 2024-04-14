@@ -18,7 +18,7 @@ Thanks and have a great holidays!s
 sharome
 
 
-##TODO:
+## TODO:
  - Create an in-app youtube video player instead of redirecting to the website
  - Dynamic Scaling (media.query instead of size)
  - Customizable Themes
